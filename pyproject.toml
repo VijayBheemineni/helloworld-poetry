@@ -6,7 +6,9 @@ authors = ["Vijay Bheemineni <vijaybheemineni@github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.13"
+python = "^3.12"
+requests = "^2.32.3"
+beautifulsoup4 = "^4.12.3"
 
 
 [build-system]
